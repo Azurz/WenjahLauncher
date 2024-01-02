@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
-  "version": "2.1.0",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "name": "WenjahLauncher",
+  "version": "1.0.0",
+  "productName": "Wenjah Launcher",
+  "description": "Launcher Modded",
+  "author": "Azurz & Daniel Scalzi (https://github.com/dscalzi/)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/Azurz/WenjahLauncher",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/Azurz/WenjahLauncher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/Azurz/WenjahLauncher.git"
   }
 }
